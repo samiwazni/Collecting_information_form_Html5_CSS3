@@ -1,5 +1,5 @@
 <?php 
-
+// This code only work when it be publish online..
 if (isset($_POST['submit'])) {
     $name = $_POST['name'];
     $mailFrom = $_POST['email'];
